@@ -1,0 +1,39 @@
+tileLoaders:
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - f1
+                - f2
+                - r1
+              southSegmentsName:
+                - f1
+                - f2
+                - r1
+              cloisterSegmentName:
+                - cloister
+            - northSegmentsName:
+                - f1
+                - f2
+                - r1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f1
+                - f2
+                - r1
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - p1
+              southSegmentsName:
+                - f1
+                - f2
+                - r1
+
+

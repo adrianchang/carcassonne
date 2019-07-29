@@ -1,0 +1,275 @@
+tileLoaders:
+#A
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f1
+              southSegmentsName:
+                - f1
+                - r1
+                - f1
+              cloisterSegmentName:
+                - cloister
+#B
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f1
+              southSegmentsName:
+                - f1
+              cloisterSegmentName:
+                - cloister
+#C
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - p1
+              southSegmentsName:
+                - p1
+#D
+            - northSegmentsName:
+                - f1
+                - r1
+                - f2
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#E
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f1
+              southSegmentsName:
+                - f1
+#F
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - p1
+              southSegmentsName:
+                - f2
+#G
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f2
+              southSegmentsName:
+                - c1
+#H
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - c1
+              eastSegmentsName:
+                - c2
+              southSegmentsName:
+                - f1
+#I
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - c2
+#J
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f1
+                - r1
+                - f2
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#K
+            - northSegmentsName:
+                - f2
+                - r1
+                - f1
+              westSegmentsName:
+                - f1
+                - r1
+                - f2
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f1
+#L
+            - northSegmentsName:
+                - f1
+                - r1
+                - f2
+              westSegmentsName:
+                - f3
+                - r2
+                - f1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f2
+                - r3
+                - f3
+#M
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - f1
+              southSegmentsName:
+                - f1
+#N
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - c1
+              eastSegmentsName:
+                - f1
+              southSegmentsName:
+                - f1
+#O
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - f1
+                - r1
+                - f2
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#P
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - c1
+              eastSegmentsName:
+                - f1
+                - r1
+                - f2
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#Q
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - p1
+              southSegmentsName:
+                - f1
+#R
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - c1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f1
+#S
+            - northSegmentsName:
+                - p1
+              westSegmentsName:
+                - p1
+              eastSegmentsName:
+                - p1
+              southSegmentsName:
+                - f1
+                - r1
+                - f2
+#T
+            - northSegmentsName:
+                - c1
+              westSegmentsName:
+                - c1
+              eastSegmentsName:
+                - c1
+              southSegmentsName:
+                - f1
+                - r1
+                - f2
+#U
+            - northSegmentsName:
+                - f1
+                - r1
+                - f2
+              westSegmentsName:
+                - f1
+              eastSegmentsName:
+                - f2
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#V
+            - northSegmentsName:
+                - f2
+              westSegmentsName:
+                - f1
+                - r1
+                - f2
+              eastSegmentsName:
+                - f2
+              southSegmentsName:
+                - f2
+                - r1
+                - f1
+#W
+            - northSegmentsName:
+                - f1
+              westSegmentsName:
+                - f2
+                - r1
+                - f1
+              eastSegmentsName:
+                - f1
+                - r3
+                - f3
+              southSegmentsName:
+                - f3
+                - r2
+                - f2
+#X
+            - northSegmentsName:
+                - f1
+                - r1
+                - f2
+              westSegmentsName:
+                - f4
+                - r2
+                - f1
+              eastSegmentsName:
+                - f2
+                - r4
+                - f3
+              southSegmentsName:
+                - f3
+                - r3
+                - f4

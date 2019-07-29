@@ -1,0 +1,12 @@
+northSegmentsName:
+  - f1
+  - r1
+  - f2
+westSegmentsName:
+  - f1
+eastSegmentsName:
+  - c1
+southSegmentsName:
+  - f2
+  - r1
+  - f1

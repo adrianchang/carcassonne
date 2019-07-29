@@ -1,0 +1,15 @@
+northSegmentsName:
+  - p1
+westSegmentsName:
+  - p1
+eastSegmentsName:
+  - f1
+  - f2
+  - r1
+southSegmentsName:
+  - f1
+  - f2
+  - r1
+cloisterSegmentName:
+  - cloister
+
